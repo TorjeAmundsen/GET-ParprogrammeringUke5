@@ -1,6 +1,4 @@
-﻿
-
-namespace ParprogrammeringUke5
+﻿namespace ParprogrammeringUke5
 {
     internal class Character
     {
